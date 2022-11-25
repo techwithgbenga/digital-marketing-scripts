@@ -26,7 +26,7 @@ Install Python on your laptop and install all the needed packages.
 
 #Getting Started
 1. Confirure all needed information including Facebook API and Twilio API credentials.
-2. Host balance_report.py script on any python server or setup job cron on local system.
+2. Host bm_balance_report.py script on any python server or setup job cron on local system.
 
 #THANK YOU
 
