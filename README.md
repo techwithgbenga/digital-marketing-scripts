@@ -10,12 +10,10 @@ Here is a curated digital marketing scripts to help individual and businesses au
   - [Facebook Marketing Ad Management Using Google Sheet in Python + SMS Notification]
   - 
 - **LinkedIn**
-  
   - [Grow Linkedin Network Using Automation]
  
  - **WhatApp**
-  
-  - [Bulk Whatsapp Messages Python Automated]
+   - [Bulk Whatsapp Messages Python Automated]
  
 - **Google**
 
