@@ -11,8 +11,7 @@ Here is a curated digital marketing scripts to help individual and businesses au
   - 
 - **LinkedIn**
   
-  - [Facebook Business Manager Budget Monitoring Script In Python + SMS Notification]
-  - [Facebook Marketing Ad Management Using Google Sheet in Python + SMS Notification]
+  - [Grow Linkedin Network Using Automation]
  
  - **WhatApp**
   
