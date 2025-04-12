@@ -1,6 +1,6 @@
-## Introduction
+# Digital Marketing Script
 
-Here is a curated collection digital marketing scripts from basic to advance. It is a combination of several multiple languages to automate digital marketing processes for different platforms. Digital marketing refers to the use of digital channels to market products and services in order to reach consumers. This type of marketing involves the use of websites, mobile devices, social media, search engines, and other similar channels.
+Here is a curated digital marketing scripts to help individual and businesses authomate digital marketing processes. It is a combination of several multiple languages to automate digital marketing processes for different platforms. Digital marketing refers to the use of digital channels to market products and services in order to reach consumers. This type of marketing involves the use of websites, mobile devices, social media, search engines, and other similar channels.
 
 ## Scripts
 
