@@ -14,11 +14,10 @@ Here is a curated digital marketing scripts to help individual and businesses au
   - [Facebook Business Manager Budget Monitoring Script In Python + SMS Notification]
   - [Facebook Marketing Ad Management Using Google Sheet in Python + SMS Notification]
  
-  - **WhatApp**
+ - **WhatApp**
   
-  - [Facebook Business Manager Budget Monitoring Script In Python + SMS Notification]
-  - [Facebook Marketing Ad Management Using Google Sheet in Python + SMS Notification]
-
+  - [Bulk Whatsapp Messages Python Automated]
+ 
 - **Google**
 
   - Coming Soon
